@@ -1,0 +1,3 @@
+confidence_threshold=0.7
+min_duration_ms=10
+merge_gap_ms=20
